@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick Carrasco</h1>
 <h3 align="center">Software engineer from Ecuador</h3>
 
-- 🔭 I’m currently working on [My personal portfolio](https://github.com/Erickype/Portfolio)
+- 🔭 I’m currently working on [GoGameEngine](https://github.com/Erickype/GoGameEngine)
 
 - 🌱 I’m currently learning **Svelte & SvelteKit, Go**
 
