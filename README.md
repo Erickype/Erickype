@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick Carrasco</h1>
 <h3 align="center">Software engineer from Ecuador</h3>
 
-- 🔭 I’m currently working on [GoChat](https://github.com/Erickype/GoBonsaiCompany)
+- 🔭 I’m currently working on [GoBonsaiCompany](https://github.com/Erickype/GoBonsaiCompany), a project using microservices.
 
 - 🌱 I’m currently learning **Go, Microservices, GRPC, REST**
 
