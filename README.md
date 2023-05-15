@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://erickype.github.io/Portfolio/](https://erickype.github.io/Portfolio/)
 
-- 📫 How to reach me **erickype@hotmail.com**
+- 📫 How to reach me **erickype@hotmail.com**, **erickype@gmail.com**
 
 - ⚡ Fun fact **I love art and videogames**
 
