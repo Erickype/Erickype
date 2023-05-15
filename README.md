@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Erick Carrasco</h1>
 <h3 align="center">Software engineer from Ecuador</h3>
 
-- 🔭 I’m currently working on [GoChat](https://github.com/Erickype/GoChat)
+- 🔭 I’m currently working on [GoChat](https://github.com/Erickype/GoBonsaiCompany)
 
-- 🌱 I’m currently learning **Svelte & SvelteKit, Go**
+- 🌱 I’m currently learning **Go, Microservices, GRPC, REST**
 
-- 👯 I’m looking to collaborate on **Backend or frontend projects**
+- 👯 I’m looking to collaborate on **Backend projects**
 
 - 👨‍💻 All of my projects are available at [https://erickype.github.io/Portfolio/](https://erickype.github.io/Portfolio/)
 
