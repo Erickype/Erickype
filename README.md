@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick Carrasco</h1>
 <h3 align="center">Software engineer from Ecuador</h3>
 
-- 🔭 I’m currently working on [BonsaiStoreRuledBased](https://github.com/Erickype/bonsai-store-ruled-based), a project using microservices and a ruled based system.
+- 🔭 I’m currently working on [DungeonPitFrontend](https://github.com/Erickype/DungeonPitFrontend), videogame project that procedurally generates dungeons, using a golang server and grpc communication.
 
 - 🌱 I’m currently learning **Go, Microservices, GRPC, REST**
 
